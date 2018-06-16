@@ -13,7 +13,7 @@ This is sample project that how we can write test cases/scenario in cucumber and
 - open the project using file tab--> open --> select project
 - select the language - Ruby from preferences --> language and framework
 - in terminal :
-    - run gem install cucumber (you donot install cucumber)
+    - run gem install cucumber (if you donot install cucumber)
     - gem install appium-lib
     - cucumber -t @sample
     
