@@ -3,12 +3,11 @@ Given(/^I print strings to say hello to users$/) do
 end
 
 When(/^I ask for user name$/) do
-  @name=STDIN.gets.chomp
-  puts "Hello #{@name}"
+  puts "Hello Assaf"
 end
 
 And(/^I print the string "([^"]*)"$/) do |str|
-  puts str + " " + @name
+  puts str + " " + "Assaf"
 end
 
 And(/^I calculate the sum of (\d+) numbers$/) do |arg|
