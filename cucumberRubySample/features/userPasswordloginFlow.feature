@@ -1,4 +1,4 @@
-Feature: practising for printing strings and numbers
+Feature: Username Password Login
 
   @sample
   Scenario: printing strings and numbers
