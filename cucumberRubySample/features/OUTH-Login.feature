@@ -1,4 +1,4 @@
-Feature: MFA  Login
+Feature: OUTH  Login
 
   @sample
   Scenario: printing strings and numbers
