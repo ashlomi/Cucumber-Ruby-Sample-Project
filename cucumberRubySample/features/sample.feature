@@ -10,7 +10,7 @@ Feature: practising for printing strings and numbers
     
   Feature: practising for printing strings and numbers 2
 
-  @sample
+  @sample-2
   Scenario: printing strings and numbers
     Given I print strings to say hello to users
     When I ask for user name
